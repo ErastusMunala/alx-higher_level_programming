@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # test_base.py
-# stanley mayore <stanleymayore2@gmail.com>
+# Erastus Munala <munalaerastus2@gmail.com>
 """Defines unittests for base.py.
 Unittest classes:
     TestBase_instantiation - line 23

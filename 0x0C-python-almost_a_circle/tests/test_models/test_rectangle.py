@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # test_rectangle.py
-# stanley mayore <stanleymayore2@gmail.com>
+# Erastus Munala <munalaerastus@gmail.com>
 """Defines unittests for models/rectangle.py.
 Unittest classes:
     TestRectangle_instantiation - line 25

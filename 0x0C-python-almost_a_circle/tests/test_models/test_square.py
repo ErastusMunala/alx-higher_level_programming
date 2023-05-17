@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # test_square.py
-# stanley mayore <stanleymayore2@gmail.com>
+# Erastus Munala <munalerastus@gmail.com>
 """Defines unittests for models/square.py.
 Unittest classes:
     TestSquare_instantiation - line 24
