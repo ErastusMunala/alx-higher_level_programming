@@ -1,0 +1,1 @@
+document.querySelector('HEADER').computedStyleMap.COLOR = '#FF0000';
